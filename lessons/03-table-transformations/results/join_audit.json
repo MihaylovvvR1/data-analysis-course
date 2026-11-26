@@ -1,0 +1,8 @@
+{
+  "left_rows": 6830,
+  "right_rows": 469,
+  "result_rows": 6830,
+  "unmatched_rows": 25,
+  "expected_relationship": "many_to_one",
+  "lookup": "Учебная неполная копия без первой организации"
+}
